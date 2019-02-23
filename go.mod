@@ -1,1 +1,1 @@
-module github.com/golang/glog
+module github.com/zemnmez/geothermal

@@ -1,4 +1,4 @@
-package bad // import "github.com/golang/glog"
+package bad // import "github.com/zemnmez/geothermal"
 
 import "fmt"
 
